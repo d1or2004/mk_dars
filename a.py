@@ -12,5 +12,3 @@ def kalkulyator(a, b, ishora):
             return a / b
 
 
-n = kalkulyator(2, 4, '+')
-print(n)
